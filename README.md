@@ -3,6 +3,5 @@ I created this obstacle course while playing around and learning more about Unit
 
 Demo videos:
 
-[Demo Video 1]: https://youtu.be/MJ-YtbbvJ9k
-[Demo Video 2]: https://youtu.be/PNywkpP1H7o
-
+[Demo Video 1](https://youtu.be/MJ-YtbbvJ9k)
+[Demo Video 2](https://youtu.be/PNywkpP1H7o)
